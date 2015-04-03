@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="item1">#FFEC8B</color>
+	<color name="item2">#FFBBFF</color>
+	<color name="item3">#FFA07A</color>
+	<color name="item4">#ADD8E6</color>
+	<color name="item5">#969696</color>
+	<color name="item6">#E066FF</color>
+	<color name="item7">#EEE685</color>
+	<color name="item8">#7171C6</color>
+	<color name="item9">#ABABAB</color>
+	
+	<color name="clist_item_tag">#FFF8DC</color>
+	<color name="list_item_bg">#ece5d6</color>
+	<color name="list_item_bg_click">#dcd2b9</color>
+	<color name="list_item_font">#af9b87</color>
+</resources>
